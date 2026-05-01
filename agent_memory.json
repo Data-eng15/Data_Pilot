@@ -1,0 +1,221 @@
+{
+  "datasets": {
+    "fp_626966813315": {
+      "last_seen": "2026-05-01T12:01:04Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 1.42
+      }
+    },
+    "fp_933485681432": {
+      "last_seen": "2026-05-01T12:01:17Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 1.47
+      }
+    },
+    "fp_262490986846": {
+      "last_seen": "2026-05-01T12:02:00Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 1.4
+      }
+    },
+    "fp_415315953741": {
+      "last_seen": "2026-05-01T12:02:04Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 1.42
+      }
+    },
+    "fp_906124755177": {
+      "last_seen": "2026-05-01T12:02:09Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 1.39
+      }
+    },
+    "fp_357592944195": {
+      "last_seen": "2026-05-01T12:29:55Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 3.41
+      }
+    },
+    "fp_828904820086": {
+      "last_seen": "2026-05-01T15:40:11Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 4.93
+      }
+    },
+    "fp_550569513302": {
+      "last_seen": "2026-05-01T15:40:22Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 4.17
+      }
+    },
+    "fp_475046218408": {
+      "last_seen": "2026-05-01T15:40:32Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 3.84
+      }
+    },
+    "fp_121881005818": {
+      "last_seen": "2026-05-01T15:42:19Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 2.61
+      }
+    },
+    "fp_982064538331": {
+      "last_seen": "2026-05-01T15:42:30Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 4.13
+      }
+    },
+    "fp_682435409113": {
+      "last_seen": "2026-05-01T15:42:40Z",
+      "target": "label",
+      "shape": {
+        "rows": 20,
+        "cols": 6
+      },
+      "best_model": "LogisticRegression",
+      "best_metrics": {
+        "model": "LogisticRegression",
+        "accuracy": 1.0,
+        "balanced_accuracy": 1.0,
+        "f1_macro": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "train_time_s": 3.96
+      }
+    }
+  },
+  "notes": []
+}
